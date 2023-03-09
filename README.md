@@ -1,3 +1,5 @@
+# I used Formik library in this project. <br/> I created my form with useFormik method. <br/> I added validation properties.
+<hr/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
