@@ -1,4 +1,4 @@
-# I used Formik library in this project. <br/> I created my form with useFormik method. <br/> I added validation properties.
+# I used Formik library in this project and <br/>  created my form with useFormik method. <br/> Finally added validation properties.
 <hr/>
 # Getting Started with Create React App
 
