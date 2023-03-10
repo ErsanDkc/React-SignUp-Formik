@@ -19,6 +19,7 @@ function SignUp() {
       passwordConfirm: "",
     },
     onSubmit: (values, actions) => {
+      
       setTimeout(() => {
         actions.resetForm();
       },1000)
